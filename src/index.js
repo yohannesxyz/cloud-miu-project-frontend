@@ -8,7 +8,7 @@ import { AuthProvider } from "./context/AuthContext";
 import { CartProvider } from "./context/CartContext";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-
+//index
 root.render(
   <React.StrictMode>
     <BrowserRouter>
